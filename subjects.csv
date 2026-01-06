@@ -1,0 +1,21 @@
+code,name,hoursPerWeek,requiresProjector
+CS101,Programming,5,true
+CS102,Data Structures,5,true
+CS103,Algorithms,5,true
+CS104,Operating Systems,5,true
+CS105,Database Systems,5,true
+CS106,Software Eng,5,false
+EE101,Circuits,5,true
+EE102,Signals,5,false
+EE103,Digital Systems,5,true
+EE104,Control Systems,5,true
+ME101,Mechanics,5,false
+ME102,Thermodynamics,5,false
+ME103,Material Science,5,false
+ME104,Fluid Mechanics,5,false
+CS201,Machine Learning,5,true
+CS202,AI,5,true
+EE201,Power Systems,5,true
+EE202,Electromagnetics,5,true
+ME201,Robotics,5,true
+ME202,Manufacturing,5,false

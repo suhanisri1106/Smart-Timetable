@@ -1,0 +1,7 @@
+number,capacity,hasProjector
+R101,40,true
+R102,35,true
+R103,50,false
+R104,30,true
+R105,45,false
+R106,60,true

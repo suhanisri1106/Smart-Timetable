@@ -1,0 +1,123 @@
+Day,Time,Batch,Subject,Faculty,Room
+Mon,09:00,CSE Y2A,Algorithms,Dr. Rajesh Kumar,R104
+Mon,10:30,CSE Y2A,Data Structures,Dr. Anjali Sharma,R101
+Mon,12:00,CSE Y2A,Algorithms,Dr. Rajesh Kumar,R104
+Mon,13:30,CSE Y2A,Data Structures,Dr. Anjali Sharma,R102
+Mon,15:00,CSE Y2A,Programming,Dr. Anjali Sharma,R103
+Mon,09:00,CSE Y2B,AI,Dr. Vikram Das,R101
+Mon,10:30,CSE Y2B,Software Eng,Dr. Arjun Mehta,R104
+Mon,12:00,CSE Y2B,Machine Learning,Dr. Vikram Das,R101
+Mon,13:30,CSE Y2B,Algorithms,Dr. Rajesh Kumar,R106
+Mon,15:00,CSE Y2B,Algorithms,Dr. Rajesh Kumar,R101
+Mon,09:00,EE Y2A,Circuits,Dr. Priya Singh,R103
+Mon,10:30,EE Y2A,Signals,Dr. Priya Singh,R102
+Mon,12:00,EE Y2A,Signals,Dr. Priya Singh,R106
+Mon,13:30,EE Y2A,Circuits,Dr. Priya Singh,R101
+Mon,09:00,EE Y3B,Control Systems,Dr. Amit Reddy,R105
+Mon,10:30,EE Y3B,Power Systems,Dr. Amit Reddy,R103
+Mon,12:00,EE Y3B,Control Systems,Dr. Amit Reddy,R105
+Mon,13:30,EE Y3B,Power Systems,Dr. Amit Reddy,R103
+Mon,09:00,ME Y2A,Mechanics,Dr. Manoj Verma,R102
+Mon,10:30,ME Y2A,Mechanics,Dr. Manoj Verma,R106
+Mon,12:00,ME Y2A,Fluid Mechanics,Dr. Kavita Joshi,R103
+Mon,13:30,ME Y2A,Fluid Mechanics,Dr. Kavita Joshi,R105
+Mon,15:00,ME Y2A,Thermodynamics,Dr. Manoj Verma,R104
+Mon,10:30,ME Y3B,Fluid Mechanics,Dr. Kavita Joshi,R105
+Mon,15:00,ME Y3B,Fluid Mechanics,Dr. Kavita Joshi,R102
+Tue,09:00,CSE Y2A,Programming,Dr. Anjali Sharma,R103
+Tue,10:30,CSE Y2A,Operating Systems,Dr. Rajesh Kumar,R104
+Tue,12:00,CSE Y2A,Operating Systems,Dr. Rajesh Kumar,R102
+Tue,13:30,CSE Y2A,Programming,Dr. Anjali Sharma,R106
+Tue,15:00,CSE Y2A,Database Systems,Dr. Anjali Sharma,R102
+Tue,09:00,CSE Y2B,Operating Systems,Dr. Rajesh Kumar,R106
+Tue,10:30,CSE Y2B,AI,Dr. Vikram Das,R106
+Tue,12:00,CSE Y2B,Machine Learning,Dr. Vikram Das,R106
+Tue,13:30,CSE Y2B,Machine Learning,Dr. Vikram Das,R104
+Tue,15:00,CSE Y2B,Algorithms,Dr. Rajesh Kumar,R106
+Tue,09:00,EE Y2A,Digital Systems,Dr. Priya Singh,R104
+Tue,10:30,EE Y2A,Control Systems,Dr. Amit Reddy,R105
+Tue,12:00,EE Y2A,Circuits,Dr. Priya Singh,R105
+Tue,13:30,EE Y2A,Circuits,Dr. Priya Singh,R102
+Tue,15:00,EE Y2A,Digital Systems,Dr. Priya Singh,R105
+Tue,09:00,EE Y3B,Power Systems,Dr. Amit Reddy,R105
+Tue,15:00,EE Y3B,Electromagnetics,Dr. Amit Reddy,R104
+Tue,09:00,ME Y2A,Material Science,Dr. Manoj Verma,R101
+Tue,10:30,ME Y2A,Material Science,Dr. Manoj Verma,R102
+Tue,12:00,ME Y2A,Material Science,Dr. Manoj Verma,R104
+Tue,13:30,ME Y2A,Fluid Mechanics,Dr. Kavita Joshi,R101
+Tue,15:00,ME Y2A,Thermodynamics,Dr. Manoj Verma,R101
+Tue,15:00,ME Y3B,Robotics,Dr. Kavita Joshi,R103
+Wed,09:00,CSE Y2A,Data Structures,Dr. Anjali Sharma,R106
+Wed,10:30,CSE Y2A,Programming,Dr. Anjali Sharma,R105
+Wed,12:00,CSE Y2A,Algorithms,Dr. Rajesh Kumar,R101
+Wed,13:30,CSE Y2A,Programming,Dr. Anjali Sharma,R106
+Wed,15:00,CSE Y2A,Algorithms,Dr. Rajesh Kumar,R106
+Wed,09:00,CSE Y2B,Software Eng,Dr. Arjun Mehta,R103
+Wed,10:30,CSE Y2B,Software Eng,Dr. Arjun Mehta,R102
+Wed,12:00,CSE Y2B,AI,Dr. Vikram Das,R103
+Wed,13:30,CSE Y2B,AI,Dr. Vikram Das,R104
+Wed,15:00,CSE Y2B,Programming,Dr. Anjali Sharma,R102
+Wed,12:00,EE Y2A,Digital Systems,Dr. Priya Singh,R102
+Wed,15:00,EE Y2A,Control Systems,Dr. Amit Reddy,R105
+Wed,09:00,EE Y3B,Power Systems,Dr. Amit Reddy,R104
+Wed,10:30,EE Y3B,Circuits,Dr. Priya Singh,R103
+Wed,12:00,EE Y3B,Control Systems,Dr. Amit Reddy,R105
+Wed,15:00,EE Y3B,Circuits,Dr. Priya Singh,R104
+Wed,09:00,ME Y2A,Robotics,Dr. Kavita Joshi,R102
+Wed,10:30,ME Y2A,Thermodynamics,Dr. Manoj Verma,R101
+Wed,12:00,ME Y2A,Material Science,Dr. Manoj Verma,R106
+Wed,13:30,ME Y2A,Robotics,Dr. Kavita Joshi,R102
+Wed,15:00,ME Y2A,Robotics,Dr. Kavita Joshi,R103
+Wed,10:30,ME Y3B,Robotics,Dr. Kavita Joshi,R106
+Wed,15:00,ME Y3B,Mechanics,Dr. Manoj Verma,R101
+Thu,09:00,CSE Y2A,Operating Systems,Dr. Rajesh Kumar,R102
+Thu,10:30,CSE Y2A,Operating Systems,Dr. Rajesh Kumar,R106
+Thu,12:00,CSE Y2A,Database Systems,Dr. Anjali Sharma,R101
+Thu,13:30,CSE Y2A,Data Structures,Dr. Anjali Sharma,R104
+Thu,15:00,CSE Y2A,Database Systems,Dr. Anjali Sharma,R101
+Thu,09:00,CSE Y2B,Programming,Dr. Anjali Sharma,R106
+Thu,10:30,CSE Y2B,Machine Learning,Dr. Vikram Das,R101
+Thu,12:00,CSE Y2B,Algorithms,Dr. Rajesh Kumar,R104
+Thu,13:30,CSE Y2B,Algorithms,Dr. Rajesh Kumar,R102
+Thu,15:00,CSE Y2B,Machine Learning,Dr. Vikram Das,R102
+Thu,09:00,EE Y2A,Digital Systems,Dr. Priya Singh,R101
+Thu,10:30,EE Y2A,Control Systems,Dr. Amit Reddy,R105
+Thu,12:00,EE Y2A,Signals,Dr. Priya Singh,R103
+Thu,13:30,EE Y2A,Control Systems,Dr. Amit Reddy,R101
+Thu,09:00,EE Y3B,Electromagnetics,Dr. Amit Reddy,R103
+Thu,13:30,EE Y3B,Circuits,Dr. Priya Singh,R105
+Thu,15:00,EE Y3B,Power Systems,Dr. Amit Reddy,R104
+Thu,09:00,ME Y2A,Fluid Mechanics,Dr. Kavita Joshi,R104
+Thu,10:30,ME Y2A,Thermodynamics,Dr. Manoj Verma,R102
+Thu,12:00,ME Y2A,Thermodynamics,Dr. Manoj Verma,R105
+Thu,13:30,ME Y2A,Material Science,Dr. Manoj Verma,R106
+Thu,15:00,ME Y2A,Mechanics,Dr. Manoj Verma,R106
+Thu,10:30,ME Y3B,Fluid Mechanics,Dr. Kavita Joshi,R103
+Thu,12:00,ME Y3B,Robotics,Dr. Kavita Joshi,R106
+Thu,15:00,ME Y3B,Fluid Mechanics,Dr. Kavita Joshi,R105
+Fri,09:00,CSE Y2A,Operating Systems,Dr. Rajesh Kumar,R106
+Fri,10:30,CSE Y2A,Algorithms,Dr. Rajesh Kumar,R102
+Fri,12:00,CSE Y2A,Data Structures,Dr. Anjali Sharma,R101
+Fri,13:30,CSE Y2A,Database Systems,Dr. Anjali Sharma,R106
+Fri,15:00,CSE Y2A,Database Systems,Dr. Anjali Sharma,R101
+Fri,09:00,CSE Y2B,Programming,Dr. Anjali Sharma,R102
+Fri,10:30,CSE Y2B,Software Eng,Dr. Arjun Mehta,R103
+Fri,12:00,CSE Y2B,Operating Systems,Dr. Rajesh Kumar,R102
+Fri,13:30,CSE Y2B,Software Eng,Dr. Arjun Mehta,R101
+Fri,15:00,CSE Y2B,Operating Systems,Dr. Rajesh Kumar,R102
+Fri,09:00,EE Y2A,Signals,Dr. Priya Singh,R103
+Fri,10:30,EE Y2A,Signals,Dr. Priya Singh,R105
+Fri,12:00,EE Y2A,Control Systems,Dr. Amit Reddy,R103
+Fri,13:30,EE Y2A,Digital Systems,Dr. Priya Singh,R105
+Fri,15:00,EE Y2A,Circuits,Dr. Priya Singh,R104
+Fri,09:00,EE Y3B,Electromagnetics,Dr. Amit Reddy,R104
+Fri,10:30,EE Y3B,Control Systems,Dr. Amit Reddy,R106
+Fri,13:30,EE Y3B,Control Systems,Dr. Amit Reddy,R103
+Fri,09:00,ME Y2A,Mechanics,Dr. Manoj Verma,R101
+Fri,10:30,ME Y2A,Mechanics,Dr. Manoj Verma,R101
+Fri,12:00,ME Y2A,Robotics,Dr. Kavita Joshi,R105
+Fri,13:30,ME Y2A,Fluid Mechanics,Dr. Kavita Joshi,R102
+Fri,15:00,ME Y2A,Robotics,Dr. Kavita Joshi,R105
+Fri,10:30,ME Y3B,Fluid Mechanics,Dr. Kavita Joshi,R104
+Fri,12:00,ME Y3B,Mechanics,Dr. Manoj Verma,R106
+Fri,15:00,ME Y3B,Mechanics,Dr. Manoj Verma,R103
